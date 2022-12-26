@@ -84,10 +84,10 @@ config.background_images = [
 	"15.jpg",
 	"16.jpg",
 	"17.jpg",
-	"18.jpg",
-	"19.jpg",
-	"20.jpg",
-	"21.jpg",
+	"18.png",
+	"19.png",
+	"20.png",
+	"21.png",
 	"22.jpg",
 ]
 
