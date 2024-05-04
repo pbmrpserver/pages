@@ -1,3 +1,3 @@
-language.below_logo = "We are currently playing %%gamemode%% at %%map%%"
-language.loading = "Loading..."
-language.now_playing = "Now playing"
+language.below_logo = "LOADING ENVIRONMENT FILE: %%map%%"
+language.loading = "STARTING SYSTEM..."
+language.now_playing = "Joel Nielsen - Black Mesa OST"
