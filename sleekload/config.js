@@ -129,8 +129,8 @@ config.music_show = true
 // (Place the audio files in the music folder)
 config.music_playlist = [
 	{
-		name: "Black Mesa Theme",
-		youtube: "https://www.youtube.com/watch?v=nhVlCqvbmL8",
+		name: "HIRE | By Valve",
+		youtube: "https://www.youtube.com/watch?v=4ivU3zXSaiE ",
 	},
 ]
 
@@ -143,7 +143,7 @@ config.music_random_order = true
 config.music_volume = 10
 
 // Use Gmod volume for the music instead of manual volume
-config.music_gmod_volume = true
+config.music_gmod_volume = false
 
 // Enable custom messages?
 // "true" or "false"
