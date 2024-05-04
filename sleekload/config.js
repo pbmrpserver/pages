@@ -116,11 +116,11 @@ config.background_darkening = 30
 
 // Play music during the loading screen?
 // "true" or "false"
-config.music_enable = false
+config.music_enable = true
 
 // Display current music name?
 // "true" or "false"
-config.music_show = false
+config.music_show = true
 
 // Music playlist
 // Add as many youtube ids/urls or audio files you want
@@ -129,8 +129,8 @@ config.music_show = false
 // (Place the audio files in the music folder)
 config.music_playlist = [
 	{
-		name: "the Office Complex",
-		youtube: "https://www.youtube.com/watch?v=87Ew0HkqWfo",
+		name: "Black Mesa Theme",
+		youtube: "https://www.youtube.com/watch?v=nhVlCqvbmL8",
 	},
 ]
 
@@ -140,10 +140,10 @@ config.music_random_order = true
 
 // Music volume
 // Choose a value between 0 (quietest) and 100 (loudest)
-config.music_volume = 1
+config.music_volume = 10
 
 // Use Gmod volume for the music instead of manual volume
-config.music_gmod_volume = false
+config.music_gmod_volume = true
 
 // Enable custom messages?
 // "true" or "false"
@@ -151,18 +151,20 @@ config.messages_enable = true
 
 // Enter your custom messages below
 config.messages_list = [
-	"We're almost there, Freeman. Get yourself in position.",
-	"Testing...testing... Everything seems to be in order.",
-	"Uh...it's probably not a problem...probably...but I'm showing a small discrepancy in...well, no, it's well within acceptable bounds again. Sustaining sequence.",
-	"We've boosted the Anti-Mass Spectrometer to 105 percent. Bit of a gamble, but we need the extra resolution.",
-	"I suspected this could happen but the Administrator just would not listen.",
-	"Do you suspect some alien subterfuge behind this failure?",
-	"Are you thinking what I'm thinking?",
-	"I've told you a hundred times, I am opposed to pushing this equipment beyond the test level.",
-	"It's much too unpredictable. Don't let it overcharge!",
-	"Nature made them. We were only studying them.",
-	"Put that thing down! Why must you security guards always insist on playing with our prototypes?",
-	"Do you think that, perhaps, I could have a crowbar of my own? Perhaps, then, an automatic rifle?",
+	"INITIALIZING FILE: sectorc.sh",
+	"CLEARING FOLDER: /home/security/2003/05/reports",
+	"INITIALIZING FILE: amsoverclock.sh",
+	"DELETING FILE: /home/research/1993/06/data",
+	"CREATING DIRECTORY: /home/admin/2002/07/logs",
+	"INITIALIZING FILE: securityoverride.sh",
+	"INITIALIZING FILE: databackup.sh",
+	"RESETTING DATABASE: personnel_records",
+	"UPDATING FILE: /home/security/2002/08/protocols",
+	"ARCHIVING FOLDER: /home/research/2002/09/projects",
+	"INITIALIZING FILE: systemcheck.sh",
+	"INITIALIZING FILE: networkmonitor.sh",
+	"RESETTING DATABASE: research_data",
+	"INITIALIZING FILE: autodiagnostic.sh"
 ]
 
 // Random message order?
