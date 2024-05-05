@@ -129,8 +129,8 @@ config.music_show = true
 // (Place the audio files in the music folder)
 config.music_playlist = [
 	{
-		name: "HIRE | By Valve",
-		youtube: "https://www.youtube.com/watch?v=4ivU3zXSaiE ",
+		name: "Ending Truimph | HL:A",
+		youtube: "https://www.youtube.com/watch?v=JDR9AKLmtE0",
 	},
 ]
 
